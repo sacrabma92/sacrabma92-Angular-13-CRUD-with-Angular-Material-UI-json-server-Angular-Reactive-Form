@@ -1,0 +1,22 @@
+{
+  "listaProductos": [
+    {
+      "nombreProducto": "Apple",
+      "categoria": "Electronica",
+      "estado": "De primera",
+      "precio": 2320,
+      "comentarios": "Es un producto excelente",
+      "date": "2023-02-08T05:00:00.000Z",
+      "id": 1
+    },
+    {
+      "nombreProducto": "Mango",
+      "categoria": "Frutas",
+      "estado": "Segunda mano",
+      "precio": 36,
+      "comentarios": "Es una libra de mango",
+      "date": "2023-02-15T05:00:00.000Z",
+      "id": 2
+    }
+  ]
+}
